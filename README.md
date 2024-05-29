@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosKitumbo
 - 👀 I’m interested in electronics and programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on projects involving electronics and computing 
 - 📫 How to reach me: jose_caetano14 on instagram
 - 😄 Pronouns: ...
