@@ -22,5 +22,5 @@
 
 
 ###
-
+<img src="https://raw.githubusercontent.com/joskitumbo/joskitumbo/output/snake.svg" alt="Snake animation" />
 ###
