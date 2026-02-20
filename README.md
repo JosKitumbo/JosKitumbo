@@ -12,21 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JosKitumbo&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosKitumbo&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JosKitumbo&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=JosKitumbo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-###
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosKitumbo/JosKitumbo/output/pacman-contribution-graph-dark.svg"> 
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosKitumbo/JosKitumbo/output/pacman-contribution-graph.svg">
- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JosKitumbo/JosKitumbo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 ###
