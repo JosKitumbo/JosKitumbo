@@ -12,13 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JosKitumbo&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosKitumbo&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/JosKitumbo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosKitumbo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosKitumbo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
